@@ -2,4 +2,4 @@
 
 ### deployed in this URL:
 
-[ REVIEW] (https://mina-html-css-tea-station.netlify.app )
+[ REVIEW] (https://mina-review.netlify.app )
